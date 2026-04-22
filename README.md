@@ -2,11 +2,13 @@
 
 # 📊 Superstore Sales & Profit Dashboard (Excel)
 
-##🔍 Overview
+🔍 Overview
+
 This project is an interactive Excel dashboard built using the Superstore dataset.  
 The goal was to analyze business performance across categories, regions, and time, and uncover actionable insights.
 
-##🎯 Objectives
+🎯 Objectives
+
 - Track overall sales and profit performance  
 - Identify high-performing and underperforming sub-categories  
 - Analyze regional and state-level trends  

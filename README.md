@@ -12,7 +12,21 @@ The goal was to analyze business performance across categories, regions, and tim
 - Track overall sales and profit performance  
 - Identify high-performing and underperforming sub-categories  
 - Analyze regional and state-level trends  
-- Understand monthly sales patterns  
+- Understand monthly sales patterns
+
+ ## ❓ Key Business Questions					
+- Which categories and sub-categories drive the most profit?					
+- Are there products with high sales but low profitability?					
+- How does performance vary across regions and states?					
+- What are the monthly trends in sales?					
+- Who are the most profitable customers?
+
+  ## 📊 Approach					
+- Cleaned and prepared the dataset in Excel  					
+- Used Pivot Tables to aggregate sales and profit metrics  					
+- Designed an interactive dashboard using slicers and charts  					
+- Focused on clarity, usability, and insight-driven visuals  					
+
 
 ## 📈 Dashboard Features
 - KPI cards for Total Sales and Total Profit  
